@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Aninha6002
 - 🌱 I’m currently learning códigos do alura
-- 💞️ I’m looking to collaborate on ...  
-- ⚡ Fun fact: gosto de ler
+  
 
 <!---
 Aninha6002/Aninha6002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
